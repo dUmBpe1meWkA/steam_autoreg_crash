@@ -1,5 +1,6 @@
 # Steam Account Auto-Registration Bot(!for educational purposes only!)
 
+!This project is intended only for studying algorithms and understanding how certain functions work, etc.!
 This project provides a Python-based automation tool to register Steam accounts at scale, with strong anti-detection features and support for manual CAPTCHA solving and email confirmation.
 
 ## 🚀 Features
